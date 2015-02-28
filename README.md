@@ -1,4 +1,4 @@
-Uncompromising geometric font inspired by old school CAD fonts and developer bitmap fonts.
+Geometric font inspired by old-school CAD fonts and developer bitmap fonts.
 
 ![Original Linux Clean](./inspiration/clean.png)
 
