@@ -1,5 +1,7 @@
 Geometric font inspired by old-school CAD fonts and developer bitmap fonts.
 
+[Open Font License](./OFL.txt).
+
 ![Original Linux Clean](./inspiration/clean.png)
 
 ![Proggy Clean](./inspiration/proggy-clean.png)
