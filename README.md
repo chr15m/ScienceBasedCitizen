@@ -1,4 +1,4 @@
-Geometric font inspired by old-school CAD fonts and developer bitmap fonts.
+Geometric type inspired by old-school CAD fonts and developer bitmap fonts.
 
 [Open Font License](./OFL.txt).
 
