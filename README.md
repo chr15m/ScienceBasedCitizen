@@ -16,6 +16,10 @@ ISO8.SHX CAD font:
 
 ![ISO 8 SHX CAD](./inspiration/ISO8SHX.png)
 
+ARTXTM.SHX CAD font:
+
+![ARtxtM SHX CAD](./inspiration/ARtxtM.png)
+
 Foundry Gridnik Regular:
 
 ![Foundry Gridnik Regular](./inspiration/FoundryGridnikRegular.png)
