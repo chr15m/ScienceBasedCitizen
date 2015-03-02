@@ -1,5 +1,9 @@
 Geometric type inspired by old-school CAD fonts and developer bitmap fonts.
 
+Work in progress.
+
+![Current status](./screenshot.png)
+
 [Open Font License](./OFL.txt).
 
 ### Inspiration ###
