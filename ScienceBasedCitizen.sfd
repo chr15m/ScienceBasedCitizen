@@ -6,7 +6,7 @@ Weight: Medium
 Copyright: Created by Chris McCormick. Copyright 2015. OFL. FontForge 2.
 UComments: "2015-2-28: Created." 
 Version: 001.000
-ItalicAngle: 22.5
+ItalicAngle: 0
 UnderlinePosition: -64
 UnderlineWidth: 64
 Ascent: 1152
@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1425109602
-ModificationTime: 1425460028
+ModificationTime: 1425470679
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -52,7 +52,7 @@ FitToEm: 1
 WinInfo: 0 53 15
 BeginPrivate: 0
 EndPrivate
-BeginChars: 256 3
+BeginChars: 256 4
 
 StartChar: A
 Encoding: 65 65 0
@@ -177,6 +177,54 @@ SplineSet
  192 48 l 2
  188 48 184 50 181 53 c 2
  53 181 l 2
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: B
+Encoding: 66 66 3
+Width: 896
+VWidth: 0
+Flags: HW
+HStem: 48 32<80 697.373> 560 32<304.005 697.373> 1072 32<80 697.372>
+VStem: 48 32<80 1072> 816 32<198.627 441.373 710.627 953.373>
+DStem2: 715.314 1099.31 697.372 1072 0.707107 -0.707107<6.62736 174.392> 697.373 592 726.627 576 0.707107 0.707107<9.37262 167.765> 726.627 576 697.373 560 0.707107 -0.707107<0 158.392> 697.373 80 715.314 52.6863 0.707107 0.707107<0 167.765>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+697 560 m 1
+ 320 560 l 0
+ 311 560 304 567 304 576 c 0
+ 304 585 311 592 320 592 c 0
+ 697 592 l 1
+ 816 711 l 1
+ 816 953 l 1
+ 697 1072 l 1
+ 80 1072 l 1
+ 80 80 l 1
+ 697 80 l 1
+ 816 199 l 1
+ 816 441 l 1
+ 697 560 l 1
+727 576 m 1
+ 843 459 l 0
+ 846 457 848 452 848 448 c 0
+ 848 192 l 0
+ 848 188 846 184 843 181 c 0
+ 715 53 l 0
+ 713 50 708 48 704 48 c 0
+ 64 48 l 0
+ 55 48 48 55 48 64 c 0
+ 48 1088 l 0
+ 48 1097 55 1104 64 1104 c 0
+ 704 1104 l 0
+ 708 1104 712 1102 715 1099 c 0
+ 843 971 l 0
+ 846 969 848 964 848 960 c 0
+ 848 704 l 0
+ 848 700 846 696 843 693 c 0
+ 727 576 l 1
 EndSplineSet
 Validated: 1
 EndChar
