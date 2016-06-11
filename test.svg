@@ -13,7 +13,7 @@
    height="1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="test.svg">
   <defs
      id="defs4" />
@@ -26,15 +26,15 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1"
      inkscape:cx="496.90292"
-     inkscape:cy="766.5"
+     inkscape:cy="566.5"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="726"
-     inkscape:window-x="224"
-     inkscape:window-y="1080"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="1293"
+     inkscape:window-height="943"
+     inkscape:window-x="330"
+     inkscape:window-y="88"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -77,13 +77,13 @@
        xml:space="preserve"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:ScienceBasedCitizen;-inkscape-font-specification:ScienceBasedCitizen Medium"
        x="201.5625"
-       y="101.67468"
+       y="101.86218"
        id="text2993"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan2995"
          x="201.5625"
-         y="101.67468">QSAB</tspan></text>
+         y="101.86218">QSAB</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Open Sans;-inkscape-font-specification:Open Sans Light"
@@ -120,14 +120,14 @@
     <text
        xml:space="preserve"
        style="font-size:24px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:ScienceBasedCitizen;-inkscape-font-specification:ScienceBasedCitizen Medium"
-       x="405.94376"
-       y="99.043404"
+       x="405.27344"
+       y="99.112183"
        id="text3017"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3019"
-         x="405.94376"
-         y="99.043404">QSA</tspan></text>
+         x="405.27344"
+         y="99.112183">QSA</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:ARIsoP1M;-inkscape-font-specification:ARIsoP1M Bold"
@@ -285,14 +285,18 @@
     <text
        sodipodi:linespacing="125%"
        id="text3197"
-       y="102.45593"
-       x="622.56122"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:ScienceBasedCitizen;-inkscape-font-specification:ScienceBasedCitizen Medium"
+       y="102.86218"
+       x="621.5625"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:ScienceBasedCitizen;-inkscape-font-specification:ScienceBasedCitizen Medium"
        xml:space="preserve"><tspan
-         y="102.45593"
-         x="622.56122"
+         y="102.86218"
+         x="621.5625"
          id="tspan3199"
-         sodipodi:role="line">QSAB BSAQ</tspan></text>
+         sodipodi:role="line">QSAB</tspan><tspan
+         y="162.86218"
+         x="621.5625"
+         sodipodi:role="line"
+         id="tspan3032">BSAQ</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:ScienceBasedCitizen;-inkscape-font-specification:ScienceBasedCitizen Medium"
@@ -320,8 +324,61 @@
          id="tspan3042"
          sodipodi:role="line">WHEN ZOMBIES ARRIVE,</tspan><tspan
          id="tspan3044"
-         y="748.51825"
+         y="758.85809"
          x="353"
          sodipodi:role="line">QUICKLY FAX JUDGE PAT?</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3033"
+       y="279.86218"
+       x="567.54688"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:ScienceBasedCitizen;-inkscape-font-specification:ScienceBasedCitizen Medium"
+       xml:space="preserve"><tspan
+         y="279.86218"
+         x="567.54688"
+         id="tspan3035"
+         sodipodi:role="line">SBC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:ScienceBasedCitizen;-inkscape-font-specification:ScienceBasedCitizen Medium"
+       x="891.21875"
+       y="257.46777"
+       id="text3037"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3039"
+         x="891.21875"
+         y="257.46777">ABCDEFG</tspan><tspan
+         sodipodi:role="line"
+         x="891.21875"
+         y="329.37033"
+         id="tspan3041">HIJKLMNO</tspan><tspan
+         sodipodi:role="line"
+         x="891.21875"
+         y="411.86627"
+         id="tspan3043">PQRSTUV</tspan><tspan
+         sodipodi:role="line"
+         x="891.21875"
+         y="494.36218"
+         id="tspan3045">WXYZ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:ScienceBasedCitizen;-inkscape-font-specification:ScienceBasedCitizen Medium"
+       x="567.54688"
+       y="359.86218"
+       id="text3041"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3046"
+         x="567.54688"
+         y="359.86218">GEFF</tspan><tspan
+         sodipodi:role="line"
+         x="567.54688"
+         y="419.86218"
+         id="tspan3048">BACD</tspan><tspan
+         sodipodi:role="line"
+         x="567.54688"
+         y="479.86218"
+         id="tspan3050">HABI</tspan></text>
   </g>
 </svg>
